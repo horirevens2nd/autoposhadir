@@ -1,0 +1,17 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pretty-errors = "*"
+black = "*"
+pylint = "*"
+
+[packages]
+selenium = "==3.141.0"
+PyYAML = "==5.3.1"
+python-telegram-bot = "*"
+
+[requires]
+python_version = "3.8"
