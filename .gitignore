@@ -2,11 +2,11 @@
 
 # directories
 .git/
-.vscode/
 .idea/
+.vscode/
 __pycache__/
 log/
 
 # files
 .env
-
+chromedriver
