@@ -1,0 +1,6 @@
+pretty_errors==1.2.25
+python-dotenv==0.21.0
+python_telegram_bot==13.14
+PyYAML==6.0
+selenium==4.5.0
+telegram==0.0.1
