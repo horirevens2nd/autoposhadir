@@ -1,10 +1,8 @@
 # CHANGELOG
 
----
-
 ## [1.0.1] - 2022-10-14
 ### Added
-- Penambahan file "requirements.txt, CHANGELOG.md, README.md"
+- Penambahan file "requirements.txt, CHANGELOG.md"
 
 ### Changed
 - Perubahan struktur proyek aplikasi
@@ -15,4 +13,3 @@
 - Tidak menggunakan log
 
 ## [1.0.0] - 2022-08-18
-- Rilis pertama kali
